@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milos Rad</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Blockchain and Fullstack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +8 years of experiences in web & app program, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern. Recently, I've finished some blockchain projects which include ETH, BSC, Solana with ERC20, NFT and so on.</h4>
 
