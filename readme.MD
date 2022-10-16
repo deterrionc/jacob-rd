@@ -2,20 +2,20 @@
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Blockchain and Fullstack developer who loves new challenges and cutting-edge techs. With proven knowledge of IT programming, web and strategy, I have +8 years of experiences in web & app program, project management skills, and technical support. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern. Recently, I've finished some blockchain projects which include ETH, BSC, Solana with ERC20, NFT and so on.</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milos-rad" alt="milos-rad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacob-rad" alt="jacob-rd" /></a> </p>
 <p align="center">
-<a href="https://app.daily.dev/milos_rad"><img src="https://api.daily.dev/devcards/9de78b8735c845efa572a350d6376e27.png?r=tl0" width="400" alt="Milos Rad's Dev Card"/></a>
+<a href="https://app.daily.dev/jacob_rd"><img src="https://api.daily.dev/devcards/9de78b8735c845efa572a350d6376e27.png?r=tl0" width="400" alt="Jacob Rd's Dev Card"/></a>
 </p>
 
 - 💬 Ask me about **React, Open EDX, Node, Solidity, and GraphQL**
 
-- 📫 How to reach me **milos.rad.dev@gmail.com**
+- 📫 How to reach me **jacob.rd.dev@gmail.com**
 
-- 📄 Know about my experiences [https://milos-rad.netlify.app](https://milos-rad.netlify.app)
+- 📄 Know about my experiences [https://jacob-rd.netlify.app](https://jacob-rd.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/milos-rad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milos-rad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jacob-rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob-rad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
